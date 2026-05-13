@@ -1,5 +1,4 @@
 ![PulseBar live banner]([https://www.pulsebar.io/api/banner/a4mp6s5ch1.png])
-https://www.pulsebar.io/api/banner/a4mp6s5ch1.png
 <!--
 **nallamala009/nallamala009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
