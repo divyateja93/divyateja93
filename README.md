@@ -1,6 +1,6 @@
 ![PulseBar live banner](https://www.pulsebar.io/api/banner/a4mp6s5ch1.png)
 
-### Hi, I'm Srijwala 👋
+### Hi, I'm Divya Teja 👋
 
 I'm building [PulseBar](https://pulsebar.io) — live, auto-updating profile banners for makers.
 
