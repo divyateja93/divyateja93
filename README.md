@@ -1,4 +1,4 @@
-![PulseBar live banner](https://pulsebar.io/api/banner/a4mp6s5ch1.png)
+![PulseBar live banner](https://www.pulsebar.io/api/banner/a4mp6s5ch1.png)
 
 ### Hi, I'm Srijwala 👋
 
