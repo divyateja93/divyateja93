@@ -8,4 +8,5 @@ The banner above updates itself with my real GitHub stats. No screenshots, no ma
 
 ---
 
-🔗 [pulsebar.io](https://pulsebar.io) · 🐙 [@nallamala009](https://github.com/nallamala009)
+🔗 [pulsebar.io](https://pulsebar.io) · 🐙 [@nallamala009](https://github.com/divyateja93)
+
